@@ -1,0 +1,35 @@
+:root {
+	--all-border-radius: 7px;
+    --all-border-color: #dbdbdb;
+    --but-border-radius: 5px;
+    --font-color: #717171;
+    --theme-color: rgba(255, 255, 255, 0.85);
+    --head-color: rgba(255, 255, 255, 0.85);
+    --back-theme-color: #e6e6e6;
+    --item-theme-color: #e6e6e6;
+    --action-back-color: #313131;
+    --all-margin: 15px;
+    --back-link-color: none;
+    --hover-link-color: rgb(219, 219, 219, 0.55);
+    --font-link-color: #717171;
+    --reg-link-back: #dbdbdb;
+    --reg-link-back-hover: #cdcdcd;
+    --reg-link-color: #434343;
+    --buttons-color: #0088d1;
+    --buttons-hover: #1a9be0;
+    --buttons-text-color: #fff;
+    --buttons-dark-color: #dedede;
+    --buttons-dark-hover: #cacaca;
+    --link-title-color: #868686;
+    --back-input-color: rgb(242, 242, 242, 0.80);
+    --items-color: #0088d1;
+    --modal-font: #fff;
+    --scroll-color: #bcbcbc;
+    --scroll-track-color: var(--back-theme-color);
+    --scroll-hover-color: #808080;
+    --scroll-hover-track: var(--back-theme-color);
+    --blackout-color: 190, 190, 190, 0.75;
+    --blackout-them-head: 255, 255, 255, 0.75;
+    --shadow-color: #c3c3c3;
+}
+
